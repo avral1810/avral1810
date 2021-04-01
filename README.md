@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @avral1810
+- 👀 I’m interested in Software Developement, Data Analytics, Machine Learning, and Music Production 
+- 🌱 I’m currently learning interning at Wayfair as a data engineer and learning a lot of new techonologies
+- 💞️ I’m looking to collaborate on Music, C++, Python and anything in between
+- 📫 How to reach me ... aviralupadhyay@ymail.com
